@@ -1,20 +1,21 @@
 # KERQON
 
-Softwaremarke für selbst gehostete Software.
+Softwarelösungen für professionelle, selbst gehostete Systeme.
 
-## Produkte
+KERQON entwickelt Software mit dem Fokus auf Unabhängigkeit, zuverlässige Abläufe und die Kontrolle über die eigene Infrastruktur.
 
-### KERQON FarmDeck (erstes Produkt)
+## Unsere Produkte
 
-- Herstellerübergreifendes, selbst gehostetes 3D-Druckfarm-Management
-- LAN-first, ohne verpflichtende Hersteller-Cloud
-- Entwicklung im privaten Repository der Organisation
+### KERQON FarmDeck
 
-## Website
+Herstellerübergreifendes Management für 3D-Druckfarmen.
 
-https://kerqon.de
+- Zentrale Überwachung und Steuerung von 3D-Druckern
+- Unterstützung unterschiedlicher Druckerhersteller
+- LAN-first und ohne verpflichtende Hersteller-Cloud
+- Self-hosted – die eigene Infrastruktur bleibt unter eigener Kontrolle
 
-## Kontakt
+## Weitere Informationen
 
-- Website: [kerqon.de](https://kerqon.de)
-- E-Mail: mail@kerqon.de
+Website: https://kerqon.de  
+Kontakt: mail@kerqon.de
